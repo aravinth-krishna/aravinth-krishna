@@ -4,27 +4,29 @@
 
 ## 💫 About Me
 
- - 👋 Hello there! I'm <strong>R. Aravinth Krishna</Strong>
- - Currently a 👨‍💻 Computer Science and Engineering Student at K. Ramakrishnan College of Technology
- - Passionate about the Web and Full-Stack Development
- - Always interested to learn and adapt to new technologies
+### 👋 Hello there! I'm R. Aravinth Krishna
+
+- 👨‍💻 Currently a Computer Science and Engineering student at K. Ramakrishnan College of Technology.
+- 🌐 Passionate about web technologies and full-stack development.
+- 🔄 Always eager to adapt to new technologies while learning from established ones.
+- 🚀 You'll often find me working on exciting projects or participating in hackathons.
 
 ## 🌐 Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/yourusername" target="_blank" style="margin: 0 8px;">
+  <a href="https://www.linkedin.com/in/yourusername" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 25px;">
-  </a>
-  <a href="https://github.com/yourusername" target="_blank" style="margin: 0 8px;">
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/yourusername" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" style="height: 25px;">
-  </a>
-  <a href="mailto:youremail@gmail.com" target="_blank" style="margin: 0 8px;">
+  </a>&nbsp;&nbsp;
+  <a href="mailto:youremail@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" style="height: 25px;">
-  </a>
-  <a href="https://leetcode.com/yourusername" target="_blank" style="margin: 0 8px;">
+  </a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/yourusername" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" style="height: 25px;">
-  </a>
-  <a href="https://www.hackerrank.com/yourusername" target="_blank" style="margin: 0 8px;">
+  </a>&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/yourusername" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" style="height: 25px;">
   </a>
 </div>
