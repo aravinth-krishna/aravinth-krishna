@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 # 💫 About Me:
 Computer Science and Engineering Student<br>Passionate about developing Full stack applications
 
@@ -20,6 +22,3 @@ Computer Science and Engineering Student<br>Passionate about developing Full sta
 ![](https://github-readme-stats.vercel.app/api?username=aravinth-krishna&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=aravinth-krishna&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aravinth-krishna&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=aravinth-krishna&icon=0&color=0)](https://visitcount.itsvg.in)
