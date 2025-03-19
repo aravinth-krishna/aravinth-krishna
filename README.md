@@ -3,9 +3,10 @@
 </p>
 
 
-# 💫 About Me:
-Computer Science and Engineering Student<br>Passionate about developing Full stack applications
+## 💫 About Me
 
+- Computer Science and Engineering student  
+- Passionate about the Web and Full-Stack application development
 
 ## 🌐 Connect
 
@@ -27,31 +28,31 @@ Computer Science and Engineering Student<br>Passionate about developing Full sta
   </a>
 </div>
 
-## My Tech Stack
+## 💻 My Tech Stack
 
 <table align="center">
   <tr>
     <td align="center">
       <strong>Core Languages</strong><br>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,java,python" alt="Core Languages" style="margin-top:10px;">
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,java,python" alt="Core Languages" style="margin-top:15px;">
     </td>
   </tr>
   <tr>
     <td align="center">
       <strong>Frameworks &amp; Libraries</strong><br>
-      <img src="https://skillicons.dev/icons?i=react,next,spring" alt="Frameworks &amp; Libraries" style="margin-top:10px;">
+      <img src="https://skillicons.dev/icons?i=react,next,spring" alt="Frameworks &amp; Libraries" style="margin-top:15px;">
     </td>
   </tr>
   <tr>
     <td align="center">
       <strong>Databases &amp; ORM</strong><br>
-      <img src="https://skillicons.dev/icons?i=postgresql,mysql,prisma" alt="Databases &amp; ORM" style="margin-top:10px;">
+      <img src="https://skillicons.dev/icons?i=postgresql,mysql,prisma" alt="Databases &amp; ORM" style="margin-top:15px;">
     </td>
   </tr>
   <tr>
     <td align="center">
       <strong>DevOps &amp; Tools</strong><br>
-      <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea,figma" alt="DevOps &amp; Tools" style="margin-top:10px;">
+      <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea,figma" alt="DevOps &amp; Tools" style="margin-top:15px;">
     </td>
   </tr>
 </table>
