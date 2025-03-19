@@ -1,4 +1,7 @@
-![Header](./github-header-image.png)
+<p align="center">
+  <img src="./github-header-image.png" alt="Header">
+</p>
+
 
 # 💫 About Me:
 Computer Science and Engineering Student<br>Passionate about developing Full stack applications
