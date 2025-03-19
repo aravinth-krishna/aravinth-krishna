@@ -4,8 +4,10 @@
 
 ## 💫 About Me
 
-- Computer Science and Engineering student  
-- Passionate about the Web and Full-Stack application development
+ - 👋 Hello there! I'm <strong>R. Aravinth Krishna</Strong>
+ - Currently a 👨‍💻 Computer Science and Engineering Student at K. Ramakrishnan College of Technology
+ - Passionate about the Web and Full-Stack Development
+ - Always interested to learn and adapt to new technologies
 
 ## 🌐 Connect
 
