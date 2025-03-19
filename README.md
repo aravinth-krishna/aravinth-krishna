@@ -1,7 +1,3 @@
-Here's a modern-looking GitHub profile README for you:  
-
----
-
 ## 🚀 Aravinth Krishna | Full-Stack Developer  
 
 **👨‍💻 Passionate about building scalable and secure applications**  
@@ -68,7 +64,3 @@ Here's a modern-looking GitHub profile README for you:
 
 🔗 **Let's connect!**   
 📩 **r.aravinthkrishna@gmail.com** | 🌐 [LinkedIn](https://linkedin.com/in/aravinth-krishna-dev) | 🏢 [GitHub](https://github.com/aravinth-krishna)  
-
----
-
-Would you like any customizations? 🚀
