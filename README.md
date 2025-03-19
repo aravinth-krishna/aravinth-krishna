@@ -8,13 +8,13 @@ Computer Science and Engineering Student<br>Passionate about developing Full sta
 ## My Tech Stack
 
 ### Core Languages
-![Core Languages](https://skillicons.dev/icons?i=html,css,js,ts,c,java,python&perline=4)
+![Core Languages](https://skillicons.dev/icons?i=html,css,js,ts,c,java,python)
 ### Frameworks & Libraries
 ![Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,spring)
 ### Databases & ORM
 ![Databases & ORM](https://skillicons.dev/icons?i=postgresql,mysql,prisma)
 ### DevOps & Tools
-![DevOps & Tools](https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea,figma&perline=4)
+![DevOps & Tools](https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea,figma)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aravinth-krishna&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
