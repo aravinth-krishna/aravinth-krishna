@@ -22,7 +22,8 @@
   </a>&nbsp;&nbsp;
   <a href="mailto:r.aravinthkrishna@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" style="height: 25px;">
-  </a>&nbsp;&nbsp;
+  </a>
+  <br>
   <br>
   <a href="https://leetcode.com/aravinth_krishna" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" style="height: 25px;">
