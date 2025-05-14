@@ -6,10 +6,10 @@
 
 ### 👋 Hello there! I'm R. Aravinth Krishna
 
-- 👨‍💻 Currently a Computer Science and Engineering student at K. Ramakrishnan College of Technology.
-- 🌐 Passionate about web technologies and full-stack development.
-- 🔄 Always eager to adapt to new technologies while learning from established ones.
-- 🚀 You'll often find me working on exciting projects or participating in hackathons.
+👨‍💻 Currently a Computer Science and Engineering student at K. Ramakrishnan College of Technology.
+🌐 Passionate about web technologies and full-stack development.
+🔄 Always eager to adapt to new technologies while learning from established ones.
+🚀 You'll often find me working on exciting projects or participating in hackathons.
 
 ## 🌐 Connect
 
